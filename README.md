@@ -1,0 +1,1 @@
+This notebook implements a Random Forest classifier on the "glass.xlsx" dataset. The process includes data importing, EDA with distribution plots, and preprocessing steps like dropping duplicates. It then builds a Random Forest model, tunes its hyperparameters, and evaluates its performance to classify different types of glass.
